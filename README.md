@@ -27,12 +27,12 @@ Một ứng dụng **Máy Tính** đơn giản được xây dựng bằng **Rea
 
 - Node.js >= 16
 - npm hoặc yarn
-- Android Studio hoặc Xcode (tuỳ nền tảng)
+- Visual Studio Code hoặc Xcode (tuỳ nền tảng)
 - React Native CLI (nếu không dùng Expo)
 
 ### Clone và cài đặt:
 
 ```bash
-git clone https://github.com/yourusername/CalculatorApp.git
+git clone https://github.com/pnhung25311/CalculatorApp.git
 cd CalculatorApp
 npm install
